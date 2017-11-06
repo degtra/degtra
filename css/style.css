@@ -1,0 +1,110 @@
+/*navigasi bar*/
+.naviku{
+    background-color: #726c6c;
+    border-radius: 0;
+    border: 0;
+    margin: 0;
+    color: yellow;
+}
+.navbar-brand{
+padding: 0;
+margin-left: 50px;
+
+}
+
+.naviku .navbar-brand{
+    color: yellow;
+}
+.naviku .navilist li a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+}
+.naviku .navilist li a:hover{
+    background-color: #333131;
+    color: yellow;
+}
+.aktif{
+    background-color: #333131;
+    font-style: oblique;
+    color: yellow;
+}
+.dropdown-menu{
+    background-color: #726c6c;
+    padding: 0;
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a{
+    color: yellow;
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{
+    color: yellow;
+    background-color: #333131;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: yellow;
+    background-color: #333131;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+    color: yellow;
+}
+ li a{
+     min-width: 200px;
+     text-align: center;
+ }
+
+ .pictmain{
+     width: 100%;
+     height: 200px;
+ }
+ .kotak{
+    padding: 0;
+}
+.colkiri{
+   width: 50%;
+   height: 600px;
+   background-color: lightcoral;
+   float: left;
+   text-align: justify;
+}
+.colkanan{
+   width: 50%;
+   height: 600px;
+   background-color: lightgreen;
+   float: left;
+   text-align: justify;
+}
+.clear{
+    clear: left;
+}
+ .footer{
+     background-color: #726c6c;
+     color: yellow;
+     border-radius: 0px;
+ }
+.contact{
+    margin-right: auto;
+    margin-left:auto; 
+    font-family:cursive;
+    font-size: 40px;
+    font-style: italic;
+    text-decoration: none;
+}
+.table-responsive{
+    border:none;
+}
+#map{
+    width: 100%;
+    height: 400px;
+}
+
+.faq{
+    font-family: cursive; 
+    font-size:20px; 
+}
+.potoabout{
+    margin: 40px auto;
+    text-align: center;
+}
+.photo{
+    margin: 40px auto;
+    text-align: center;
+}
